@@ -4,6 +4,15 @@
     font-family: Helvetica;
 }
 
+body{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+header {
+    margin-top: 100px;
+}
+
 #title {
     block-size: auto;
     background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*16qv0as*_gcl_au*MTI0MTAwMzEyNS4xNzIwOTg2OTA1*_ga*MzIyODg2NTI4MC4xNjgxODA2MzYy*_ga_3LRZM6TM9L*MTcyNTI3MjgxMy4yNDguMC4xNzI1MjczMDAyLjYwLjAuMA..);
@@ -14,4 +23,44 @@ h1 {
     font-weight: bold;
     color: khaki;
     text-align: center;
+}
+
+main {
+    margin-top: 100px;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.brushes {
+    background-color: mediumspringgreen;
+}
+
+.frames {
+    background-color: lightcoral;
+}
+
+.paint {
+    background-color: skyblue;
+}
+
+#pricing {
+    font-weight: bold;
+    color: blue;
+}
+
+.image {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+h3 {
+    margin-bottom: 25px;
+}
+
+p {
+    margin-bottom: 25px;
 }
